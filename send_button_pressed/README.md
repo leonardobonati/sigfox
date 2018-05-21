@@ -1,3 +1,4 @@
+# Send on button pressed
 Send measured temperature data to the Sigfox cloud when the button on Texas Instruments CC2650 LaunchPad microcontroller is pressed.
 
 Temperature data are measured by the Texas Instruments CC2650 LaunchPad microcontroller connected through the I2C interface to the Si7021-A20 humidity and temperature sensor.
